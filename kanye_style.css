@@ -1,0 +1,21 @@
+#quoteContainer {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+#quote {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#quoteAuthor {
+    text-align: right;
+}
+
+#btnNewQuote {
+    margin: 0 auto;
+    display: block;
+}
